@@ -1,0 +1,11 @@
+C:\DotNetCoreApps\AWC\AWC.Business\AWC.Business\bin\Debug\netcoreapp1.1\AWC.Business.deps.json
+C:\DotNetCoreApps\AWC\AWC.Business\AWC.Business\bin\Debug\netcoreapp1.1\AWC.Business.dll
+C:\DotNetCoreApps\AWC\AWC.Business\AWC.Business\bin\Debug\netcoreapp1.1\AWC.Business.pdb
+C:\DotNetCoreApps\AWC\AWC.Business\AWC.Business\bin\Debug\netcoreapp1.1\AWC.Models.dll
+C:\DotNetCoreApps\AWC\AWC.Business\AWC.Business\bin\Debug\netcoreapp1.1\AWC.Models.pdb
+C:\DotNetCoreApps\AWC\AWC.Business\AWC.Business\obj\Debug\netcoreapp1.1\AWC.Business.csprojResolveAssemblyReference.cache
+C:\DotNetCoreApps\AWC\AWC.Business\AWC.Business\obj\Debug\netcoreapp1.1\AWC.Business.AssemblyInfo.cs
+C:\DotNetCoreApps\AWC\AWC.Business\AWC.Business\obj\Debug\netcoreapp1.1\AWC.Business.dll
+C:\DotNetCoreApps\AWC\AWC.Business\AWC.Business\obj\Debug\netcoreapp1.1\AWC.Business.pdb
+C:\DotNetCoreApps\AWC\AWC.Business\AWC.Business\bin\Debug\netcoreapp1.1\AWC.Repository.dll
+C:\DotNetCoreApps\AWC\AWC.Business\AWC.Business\bin\Debug\netcoreapp1.1\AWC.Repository.pdb
