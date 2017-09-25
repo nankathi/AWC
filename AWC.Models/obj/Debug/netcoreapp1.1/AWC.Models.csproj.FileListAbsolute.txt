@@ -1,0 +1,14 @@
+C:\DotNetCoreApps\AWC.Models\bin\Debug\netcoreapp1.1\AWC.Models.deps.json
+C:\DotNetCoreApps\AWC.Models\bin\Debug\netcoreapp1.1\AWC.Models.dll
+C:\DotNetCoreApps\AWC.Models\bin\Debug\netcoreapp1.1\AWC.Models.pdb
+C:\DotNetCoreApps\AWC.Models\obj\Debug\netcoreapp1.1\AWC.Models.csprojResolveAssemblyReference.cache
+C:\DotNetCoreApps\AWC.Models\obj\Debug\netcoreapp1.1\AWC.Models.AssemblyInfo.cs
+C:\DotNetCoreApps\AWC.Models\obj\Debug\netcoreapp1.1\AWC.Models.dll
+C:\DotNetCoreApps\AWC.Models\obj\Debug\netcoreapp1.1\AWC.Models.pdb
+C:\DotNetCoreApps\AWC\AWC.Models\bin\Debug\netcoreapp1.1\AWC.Models.deps.json
+C:\DotNetCoreApps\AWC\AWC.Models\bin\Debug\netcoreapp1.1\AWC.Models.dll
+C:\DotNetCoreApps\AWC\AWC.Models\bin\Debug\netcoreapp1.1\AWC.Models.pdb
+C:\DotNetCoreApps\AWC\AWC.Models\obj\Debug\netcoreapp1.1\AWC.Models.csprojResolveAssemblyReference.cache
+C:\DotNetCoreApps\AWC\AWC.Models\obj\Debug\netcoreapp1.1\AWC.Models.AssemblyInfo.cs
+C:\DotNetCoreApps\AWC\AWC.Models\obj\Debug\netcoreapp1.1\AWC.Models.dll
+C:\DotNetCoreApps\AWC\AWC.Models\obj\Debug\netcoreapp1.1\AWC.Models.pdb
