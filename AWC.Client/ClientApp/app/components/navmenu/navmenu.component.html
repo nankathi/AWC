@@ -1,0 +1,39 @@
+<!--<md-toolbar color="primary" class="mat-elevation-z10">
+    <button md-icon-button (click)="start.open()">
+        <md-icon>menu</md-icon>
+    </button>
+    {{ title }}
+</md-toolbar>-->
+<md-sidenav-container fullscreen>
+    <md-sidenav #start mode="side" opened="true" class="mat-elevation-z10">
+        <md-nav-list>
+            <a md-list-item [routerLink]="['/home']" routerLinkActive="active">
+                <span class='glyphicon glyphicon-home'></span> Home
+            </a>
+            <a md-list-item [routerLink]="['/counter']" routerLinkActive="active">
+                <span class='glyphicon glyphicon-education'></span> Counter
+            </a>
+            <a md-list-item [routerLink]="['/fetch-data']" routerLinkActive="active">
+                <span class='glyphicon glyphicon-th-list'></span> Fetch data
+            </a>
+        </md-nav-list>
+        <hr />
+        <button md-button (click)="start.close()">Close</button>
+    </md-sidenav>
+    <md-toolbar color="primary" class="mat-elevation-z10">
+        <button md-icon-button (click)="start.open()">
+            <md-icon>menu</md-icon>
+        </button>
+        {{ title }}
+    </md-toolbar>
+    <!--<div class="my-content">
+        <router-outlet></router-outlet>
+    </div>-->
+</md-sidenav-container>
+
+
+<!--<md-tab-group>
+      <md-tab label="About"></md-tab>
+      <md-tab label="Messages"></md-tab>
+      <md-tab label="Photos"></md-tab>
+  </md-tab-group>-->

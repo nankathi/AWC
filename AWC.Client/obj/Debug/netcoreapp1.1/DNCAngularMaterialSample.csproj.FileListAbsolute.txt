@@ -1,0 +1,9 @@
+C:\DotNetCoreApps\DNCAngularMaterialSample\bin\Debug\netcoreapp1.1\DNCAngularMaterialSample.deps.json
+C:\DotNetCoreApps\DNCAngularMaterialSample\bin\Debug\netcoreapp1.1\DNCAngularMaterialSample.runtimeconfig.json
+C:\DotNetCoreApps\DNCAngularMaterialSample\bin\Debug\netcoreapp1.1\DNCAngularMaterialSample.runtimeconfig.dev.json
+C:\DotNetCoreApps\DNCAngularMaterialSample\bin\Debug\netcoreapp1.1\DNCAngularMaterialSample.dll
+C:\DotNetCoreApps\DNCAngularMaterialSample\bin\Debug\netcoreapp1.1\DNCAngularMaterialSample.pdb
+C:\DotNetCoreApps\DNCAngularMaterialSample\obj\Debug\netcoreapp1.1\DNCAngularMaterialSample.csprojResolveAssemblyReference.cache
+C:\DotNetCoreApps\DNCAngularMaterialSample\obj\Debug\netcoreapp1.1\DNCAngularMaterialSample.AssemblyInfo.cs
+C:\DotNetCoreApps\DNCAngularMaterialSample\obj\Debug\netcoreapp1.1\DNCAngularMaterialSample.dll
+C:\DotNetCoreApps\DNCAngularMaterialSample\obj\Debug\netcoreapp1.1\DNCAngularMaterialSample.pdb
