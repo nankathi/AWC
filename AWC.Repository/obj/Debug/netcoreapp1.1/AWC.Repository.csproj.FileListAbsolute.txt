@@ -1,0 +1,15 @@
+C:\DotNetCoreApps\AWC\AWC.Repository\AWC.Repository\bin\Debug\netcoreapp1.1\AWC.Repository.deps.json
+C:\DotNetCoreApps\AWC\AWC.Repository\AWC.Repository\bin\Debug\netcoreapp1.1\AWC.Repository.dll
+C:\DotNetCoreApps\AWC\AWC.Repository\AWC.Repository\bin\Debug\netcoreapp1.1\AWC.Repository.pdb
+C:\DotNetCoreApps\AWC\AWC.Repository\AWC.Repository\obj\Debug\netcoreapp1.1\AWC.Repository.AssemblyInfo.cs
+C:\DotNetCoreApps\AWC\AWC.Repository\AWC.Repository\obj\Debug\netcoreapp1.1\AWC.Repository.dll
+C:\DotNetCoreApps\AWC\AWC.Repository\AWC.Repository\obj\Debug\netcoreapp1.1\AWC.Repository.pdb
+C:\DotNetCoreApps\AWC\AWC.Repository\bin\Debug\netcoreapp1.1\AWC.Repository.deps.json
+C:\DotNetCoreApps\AWC\AWC.Repository\bin\Debug\netcoreapp1.1\AWC.Repository.dll
+C:\DotNetCoreApps\AWC\AWC.Repository\bin\Debug\netcoreapp1.1\AWC.Repository.pdb
+C:\DotNetCoreApps\AWC\AWC.Repository\obj\Debug\netcoreapp1.1\AWC.Repository.csprojResolveAssemblyReference.cache
+C:\DotNetCoreApps\AWC\AWC.Repository\obj\Debug\netcoreapp1.1\AWC.Repository.AssemblyInfo.cs
+C:\DotNetCoreApps\AWC\AWC.Repository\obj\Debug\netcoreapp1.1\AWC.Repository.dll
+C:\DotNetCoreApps\AWC\AWC.Repository\obj\Debug\netcoreapp1.1\AWC.Repository.pdb
+C:\DotNetCoreApps\AWC\AWC.Repository\bin\Debug\netcoreapp1.1\AWC.Models.dll
+C:\DotNetCoreApps\AWC\AWC.Repository\bin\Debug\netcoreapp1.1\AWC.Models.pdb
